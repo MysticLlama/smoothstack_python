@@ -39,7 +39,7 @@ def test(s): #return whether s is a palindrome, with string Y or N for yes,no re
 	else:
 		return "N" #no otherwise
 		
-def five(length,*words):
+def five(length,*words): # take length, and inputted words to check if they are palindromes
 	sol=""
 	
 	for i in range(0,length):
