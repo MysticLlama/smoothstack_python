@@ -43,7 +43,7 @@ def nine(): #print a list as a set
 def question1(): #print numbers from 2000,3200 that is divisble by 7, but not 5
 	nums =[]
 	
-	for i in range(1999,3200):
+	for i in range(2000,3200):
 		if i%7==0 and i%5 != 0:
 			nums.append(i)
 			

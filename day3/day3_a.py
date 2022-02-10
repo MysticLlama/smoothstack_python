@@ -3,7 +3,7 @@ from random import random
 
 def one(): #print numbers from 1500,2700 that are divisiible by 7, but not 5
 	arr=[]
-	for i in range(1499,2700):
+	for i in range(1500,2700):
 		if i%7 ==0 and i%5!=0:
 			arr.append(i)
 			
