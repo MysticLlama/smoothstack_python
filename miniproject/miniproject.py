@@ -52,7 +52,10 @@ def main():
 			if found:
 				logging.info(str(date.today())+": Found All required entries")
 				break
-		#print(sol)
+		if not found:
+			logging.error(str(date.today())+": Exausted search within tolerance value")
+			print("Data not found")
+			return
 		
 		headers = dict(sorted(headers.items(), key=lambda item: item[1])) ##sort the headers list
 		head_l = list(headers.keys()) #makes headers indexable in order they were retireved in
