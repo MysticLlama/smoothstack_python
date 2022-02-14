@@ -12,6 +12,7 @@ def main():
 
 	
 	name = input("Enter name of file: ")
+	tolerance =100
 	
 	
 	
@@ -31,8 +32,8 @@ def main():
 		sol=[]
 		headers ={"Calls Offered":0,"Abandon after 30s":0,"FCR":0,"DSAT":0,"CSAT":0}
 		found=False
-		for i in range(1,100):
-			for j in range(1,100):
+		for i in range(1,tolerance):
+			for j in range(1,tolerance):
 				cell = sheet.cell(row=i,column=j)
 				logging.info(str(date.today())+": Looking at cell "+str(i)+","+str(j))
 				wk=str(cell.value).split("-")
