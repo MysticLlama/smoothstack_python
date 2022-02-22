@@ -1,0 +1,148 @@
+INFO:root:2022-02-21: Started Program
+INFO:root:2022-02-21: grabbing call data
+INFO:root:2022-02-21: Looking for data... 
+INFO:root:2022-02-21: Found Header at 1,2
+INFO:root:2022-02-21: Found Header at 1,3
+INFO:root:2022-02-21: Found Header at 1,4
+INFO:root:2022-02-21: Found Header at 1,5
+INFO:root:2022-02-21: Found Header at 1,6
+INFO:root:2022-02-21: Found entry at 12,1
+INFO:root:2022-02-21: Found All required entries
+INFO:root:2022-02-21: Sorted Headers list for display
+INFO:root:2022-02-21: Displaying data found in expedia_report_monthly_january_2018
+INFO:root:2022-02-21: Displayed item 1: Calls Offered: 16915
+INFO:root:2022-02-21: Displayed item 2: Abandon after 30s: 0.0232%
+INFO:root:2022-02-21: Displayed item 3: FCR: 0.865%
+INFO:root:2022-02-21: Displayed item 4: DSAT: 0.142%
+INFO:root:2022-02-21: Displayed item 5: CSAT: 0.783%
+INFO:root:2022-02-21: Program Finished
+INFO:root:2022-02-21: grabbing VOC data from expedia_report_monthly_january_2018.xlsx
+INFO:root:2022-02-21 Entry for promoters is good
+INFO:root:2022-02-21 Entry for passives is bad
+INFO:root:2022-02-21 Entry for dectractors is bad
+INFO:root:2022-02-21: grabbing call data
+INFO:root:2022-02-21: Looking for data... 
+INFO:root:2022-02-21: Found Header at 1,2
+INFO:root:2022-02-21: Found Header at 1,3
+INFO:root:2022-02-21: Found Header at 1,4
+INFO:root:2022-02-21: Found Header at 1,5
+INFO:root:2022-02-21: Found Header at 1,6
+INFO:root:2022-02-21: Found entry at 4,1
+INFO:root:2022-02-21: Found All required entries
+INFO:root:2022-02-21: Sorted Headers list for display
+INFO:root:2022-02-21: Displaying data found in expedia_report_monthly_march_2018
+INFO:root:2022-02-21: Displayed item 1: Calls Offered: 22343
+INFO:root:2022-02-21: Displayed item 2: Abandon after 30s: 0.0305%
+INFO:root:2022-02-21: Displayed item 3: FCR: 0.86%
+INFO:root:2022-02-21: Displayed item 4: DSAT: 0.18%
+INFO:root:2022-02-21: Displayed item 5: CSAT: 0.744%
+INFO:root:2022-02-21: Program Finished
+INFO:root:2022-02-21: grabbing VOC data from expedia_report_monthly_march_2018.xlsx
+INFO:root:2022-02-21 Entry for promoters is good
+INFO:root:2022-02-21 Entry for passives is bad
+INFO:root:2022-02-21 Entry for dectractors is bad
+INFO:root:2022-02-21: Started Program
+INFO:root:2022-02-21: Started Program
+WARNING:root:2022-02-21 : expedia_report_monthly_january_2018.xlsx was already processed!
+WARNING:root:2022-02-21 : expedia_report_monthly_march_2018.xlsx was already processed!
+INFO:root:2022-02-21: Started Program
+INFO:root:2022-02-21: grabbing call data
+INFO:root:2022-02-21: Looking for data... 
+INFO:root:2022-02-21: Found Header at 1,2
+INFO:root:2022-02-21: Found Header at 1,3
+INFO:root:2022-02-21: Found Header at 1,4
+INFO:root:2022-02-21: Found Header at 1,5
+INFO:root:2022-02-21: Found Header at 1,6
+INFO:root:2022-02-21: Found entry at 12,1
+INFO:root:2022-02-21: Found All required entries
+INFO:root:2022-02-21: Sorted Headers list for display
+INFO:root:2022-02-21: Displaying data found in expedia_report_monthly_january_2018
+INFO:root:2022-02-21: Displayed item 1: Calls Offered: 16915
+INFO:root:2022-02-21: Displayed item 2: Abandon after 30s: 0.0232%
+INFO:root:2022-02-21: Displayed item 3: FCR: 0.865%
+INFO:root:2022-02-21: Displayed item 4: DSAT: 0.142%
+INFO:root:2022-02-21: Displayed item 5: CSAT: 0.783%
+INFO:root:2022-02-21: Program Finished
+INFO:root:2022-02-21: grabbing VOC data from expedia_report_monthly_january_2018.xlsx
+INFO:root:2022-02-21 Entry for promoters is good
+INFO:root:2022-02-21 Entry for passives is bad
+INFO:root:2022-02-21 Entry for dectractors is bad
+INFO:root:2022-02-21: grabbing call data
+INFO:root:2022-02-21: Looking for data... 
+INFO:root:2022-02-21: Found Header at 1,2
+INFO:root:2022-02-21: Found Header at 1,3
+INFO:root:2022-02-21: Found Header at 1,4
+INFO:root:2022-02-21: Found Header at 1,5
+INFO:root:2022-02-21: Found Header at 1,6
+INFO:root:2022-02-21: Found entry at 4,1
+INFO:root:2022-02-21: Found All required entries
+INFO:root:2022-02-21: Sorted Headers list for display
+INFO:root:2022-02-21: Displaying data found in expedia_report_monthly_march_2018
+INFO:root:2022-02-21: Displayed item 1: Calls Offered: 22343
+INFO:root:2022-02-21: Displayed item 2: Abandon after 30s: 0.0305%
+INFO:root:2022-02-21: Displayed item 3: FCR: 0.86%
+INFO:root:2022-02-21: Displayed item 4: DSAT: 0.18%
+INFO:root:2022-02-21: Displayed item 5: CSAT: 0.744%
+INFO:root:2022-02-21: Program Finished
+INFO:root:2022-02-21: grabbing VOC data from expedia_report_monthly_march_2018.xlsx
+INFO:root:2022-02-21 Entry for promoters is good
+INFO:root:2022-02-21 Entry for passives is bad
+INFO:root:2022-02-21 Entry for dectractors is bad
+INFO:root:2022-02-21: Started Program
+INFO:root:2022-02-21: grabbing call data
+INFO:root:2022-02-21: Looking for data... 
+INFO:root:2022-02-21: Found Header at 1,2
+INFO:root:2022-02-21: Found Header at 1,3
+INFO:root:2022-02-21: Found Header at 1,4
+INFO:root:2022-02-21: Found Header at 1,5
+INFO:root:2022-02-21: Found Header at 1,6
+INFO:root:2022-02-21: Found entry at 12,1
+INFO:root:2022-02-21: Found All required entries
+INFO:root:2022-02-21: Sorted Headers list for display
+INFO:root:2022-02-21: Displaying data found in expedia_report_monthly_january_2018
+INFO:root:2022-02-21: Displayed item 1: Calls Offered: 16915
+INFO:root:2022-02-21: Displayed item 2: Abandon after 30s: 0.0232%
+INFO:root:2022-02-21: Displayed item 3: FCR: 0.865%
+INFO:root:2022-02-21: Displayed item 4: DSAT: 0.142%
+INFO:root:2022-02-21: Displayed item 5: CSAT: 0.783%
+INFO:root:2022-02-21: Program Finished
+INFO:root:2022-02-21: grabbing VOC data from expedia_report_monthly_january_2018.xlsx
+INFO:root:2022-02-21: Started Program
+INFO:root:2022-02-21: grabbing call data
+INFO:root:2022-02-21: Looking for data... 
+INFO:root:2022-02-21: Found Header at 1,2
+INFO:root:2022-02-21: Found Header at 1,3
+INFO:root:2022-02-21: Found Header at 1,4
+INFO:root:2022-02-21: Found Header at 1,5
+INFO:root:2022-02-21: Found Header at 1,6
+INFO:root:2022-02-21: Found entry at 12,1
+INFO:root:2022-02-21: Found All required entries
+INFO:root:2022-02-21: Sorted Headers list for display
+INFO:root:2022-02-21: Displaying data found in expedia_report_monthly_january_2018
+INFO:root:2022-02-21: Displayed item 1: Calls Offered: 16915
+INFO:root:2022-02-21: Displayed item 2: Abandon after 30s: 0.0232%
+INFO:root:2022-02-21: Displayed item 3: FCR: 0.865%
+INFO:root:2022-02-21: Displayed item 4: DSAT: 0.142%
+INFO:root:2022-02-21: Displayed item 5: CSAT: 0.783%
+INFO:root:2022-02-21: Program Finished
+INFO:root:2022-02-21: grabbing VOC data from expedia_report_monthly_january_2018.xlsx
+ERROR:root:2022-02-21: Tried to open file with incomeplete data: expedia_report_monthly_january_2018.xlsx
+INFO:root:2022-02-21: grabbing call data
+INFO:root:2022-02-21: Looking for data... 
+INFO:root:2022-02-21: Found Header at 1,2
+INFO:root:2022-02-21: Found Header at 1,3
+INFO:root:2022-02-21: Found Header at 1,4
+INFO:root:2022-02-21: Found Header at 1,5
+INFO:root:2022-02-21: Found Header at 1,6
+INFO:root:2022-02-21: Found entry at 4,1
+INFO:root:2022-02-21: Found All required entries
+INFO:root:2022-02-21: Sorted Headers list for display
+INFO:root:2022-02-21: Displaying data found in expedia_report_monthly_march_2018
+INFO:root:2022-02-21: Displayed item 1: Calls Offered: 22343
+INFO:root:2022-02-21: Displayed item 2: Abandon after 30s: 0.0305%
+INFO:root:2022-02-21: Displayed item 3: FCR: 0.86%
+INFO:root:2022-02-21: Displayed item 4: DSAT: 0.18%
+INFO:root:2022-02-21: Displayed item 5: CSAT: 0.744%
+INFO:root:2022-02-21: Program Finished
+INFO:root:2022-02-21: grabbing VOC data from expedia_report_monthly_march_2018.xlsx
+ERROR:root:2022-02-21: Tried to open file with incomeplete data: expedia_report_monthly_march_2018.xlsx
